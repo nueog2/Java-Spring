@@ -1,4 +1,4 @@
-#☕ Java&Spring 웹 개발 
+# ☕Java&Spring 웹 개발 
 
 
 # 들어가기 전
@@ -55,19 +55,22 @@ There are four platforms of the Java programming language
 ~~• JavaFX : GUI based Application~~
 
 
+  
 ## JavaSE 개발환경이 구축 되었다는 의미는 … 
 
 jvm, api , Tool(명령어)가 PC에 설치가 되었다는 뜻이며 자바언어로 데스크톱 응용소프트웨어를 개발할 수 있다. 
 
-
+  
 ## JavaSE개발환경 구축을 위해 설치하는 프로그램
 
 → JDK
 
 
+  
 ## JDK를 설치하면 PC에 설치 되는 것들
 
 ⏩ JVM, API, TOOL
+
 
 
 ## 자바 프로그램을 구동하는 프로세서
@@ -82,11 +85,13 @@ jvm, api , Tool(명령어)가 PC에 설치가 되었다는 뜻이며 자바언�
 JAVA언어란? → 객체지향 프로그래밍이다
 
 
+
 ### 객체지향 프로그래밍이란? → 클래스 단위로 프로그래밍을 하는 것
 
 Java언어는 객체지향 언어이므로 **객체(Object)** 단위로 프로그래밍을 해야 한다 : 인간 중심 관점
 
 Java 언어는 객체지향 언어이므로 **클래스(class)** 단위로 프로그래밍을 해야 한다 : **프로그래밍 관점**
+
 
 
 ## JavaSE프로그램의 기본 골격
